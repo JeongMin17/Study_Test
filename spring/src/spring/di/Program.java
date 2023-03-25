@@ -15,7 +15,6 @@ public class Program {
 		//Exam을 console에 출력을 하는데 출력되는 모양이 Inline(한줄에) 출력
 		//new를 통해 ExamConsole를 참조해서 물려받는 다는 것을 자동으로 구현
 		console.print();
-
 	}
 
 }
