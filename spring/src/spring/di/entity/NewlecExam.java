@@ -7,7 +7,6 @@ public class NewlecExam implements Exam {
 	private int eng;
 	private int math;
 	
-	
 	@Override
 	public int total() {
 		return kor+eng+math+com;

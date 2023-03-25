@@ -16,5 +16,4 @@ public class Program {
 		//new를 통해 ExamConsole를 참조해서 물려받는 다는 것을 자동으로 구현
 		console.print();
 	}
-
 }
